@@ -4,6 +4,9 @@
 <a href="https://www.instagram.com/99_jeongyeon/"><img src="https://img.shields.io/badge/@99_jeongyeon-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 안녕하세요! 😊 저는 경력처럼 보이고 싶은 신입 개발자(희망)입니다! 🌟<br/>
+<details>
+    <summary>자세히</summary>
+
 초등학교 때부터 코딩에 관심이 생겼고, 본격적인 코딩은 고등학교 때 시작했습니다! 💻<br/>
 처음으로 시작한 프로젝트는 카카오 플러스 친구로 모교 급식 챗봇을 제작했습니다. 🍽️<br/>
 대학교 1학년에는 기초적인 부분을 다듬었고 군대로 입대했습니다. 🫡<br/>
@@ -13,7 +16,12 @@
 인터뷰도 나왔으니 [이곳](https://youtu.be/F6Y3wh4U-TE?t=501)을 클릭해서 한번 봐주세요~ 🎤<br/>
 현재는 4학년(전공심화)이고, 또 멋진 졸업작품을 준비하고 있으니 기대해주세요! 🌈<br/>
 
+</details>
 
+
+<details>
+    <summary>View</summary>
+  
 Hello! 😊 I am a hopeful junior developer who wants to look like an experienced professional! 🌟<br/>
 I've been interested in coding since elementary school, and I started coding in earnest during high school! 💻<br/>
 My first project was creating a school meal chatbot through Kakao Plus Friends for my alma mater. 🍽️<br/>
@@ -24,6 +32,7 @@ and in my junior year, I focused on my graduation project. 🎨
 I participated in two competitions with my graduation project, winning both the Gamification Forum Award and the grand prize (Minister of Education Award)! 🏆<br/>
 Check out my interview by clicking [here](https://youtu.be/F6Y3wh4U-TE?t=501)~ 🎤<br/>
 Currently, I'm a senior (major-focused) and preparing another amazing graduation project, so please look forward to it! 🌈<br/>
+</details>
 
 ### 💪 Skills
 #### Platforms & Languages
