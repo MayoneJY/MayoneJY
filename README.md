@@ -1,9 +1,10 @@
 ### 🤞 Nice way to meet me
+
 <a href="https://velog.io/@mayone6063"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:mayone6063@kakao.com"><img src="https://img.shields.io/badge/mayone6063@kakao.com-FFCD00?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>
 <a href="https://www.instagram.com/99_jeongyeon/"><img src="https://img.shields.io/badge/@99_jeongyeon-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-안녕하세요! 😊 저는 경력처럼 보이고 싶은 신입 개발자(희망)입니다! 🌟<br/>
+안녕하세요! 😊 저는 경력직처럼 보이고 싶은 신입 개발자(희망)입니다! 🌟<br/>
 <details>
     <summary>자세히</summary>
 
@@ -36,6 +37,7 @@ Currently, I'm a senior (major-focused) and preparing another amazing graduation
 
 ### 💪 Skills
 #### Platforms & Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayoneJY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=Javascript&logoColor=F7DF1E"/>
@@ -51,3 +53,5 @@ Currently, I'm a senior (major-focused) and preparing another amazing graduation
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 </div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMayoneJY%2F&count_bg=%233C93A6&title_bg=%234350A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
