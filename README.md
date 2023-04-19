@@ -37,7 +37,7 @@ Currently, I'm a senior (major-focused) and preparing another amazing graduation
 
 ### 💪 Skills
 #### Platforms & Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayoneJY&exclude_repo=Metaverse-Driver-s-License-Skill-Test&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayoneJY&exclude_repo=Metaverse-Driver-s-License-Skill-Test&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=Javascript&logoColor=F7DF1E"/>
