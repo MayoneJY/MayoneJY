@@ -34,7 +34,7 @@ I participated in two competitions with my graduation project, winning both the 
 Check out my interview by clicking [here](https://youtu.be/F6Y3wh4U-TE?t=501)~ 🎤<br/>
 Currently, I'm a senior (major-focused) and preparing another amazing graduation project, so please look forward to it! 🌈<br/>
 </details>
-
+ 
 ### 💪 Skills
 #### Platforms & Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayoneJY&exclude_repo=Metaverse-Driver-s-License-Skill-Test&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
