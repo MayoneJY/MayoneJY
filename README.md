@@ -3,7 +3,7 @@
 <a href="https://velog.io/@mayone6063" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:mayone6063@kakao.com" target="_blank"><img src="https://img.shields.io/badge/mayone6063@kakao.com-FFCD00?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>
 <a href="https://www.instagram.com/99_jeongyeon/" target="_blank"><img src="https://img.shields.io/badge/@99_jeongyeon-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
+ 
 안녕하세요! 😊 저는 경력직처럼 보이고 싶은 신입 개발자(희망)입니다! 🌟<br/>
 <details>
     <summary>자세히</summary>
