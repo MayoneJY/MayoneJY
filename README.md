@@ -36,7 +36,7 @@ Currently, I'm a senior (major-focused) and preparing another amazing graduation
 </details>
 
 ### 진행중인 프로젝트
-교육용 게임 서비스 제공 플랫폼 (Spring boot + React)[private]
+교육용 게임 서비스 제공 플랫폼 (Spring boot + React)[private]<br/>
 현실세계 드론 스캐닝 프로젝트 (Python, C++, Unity)[private]
 
 ### 💪 Skills
