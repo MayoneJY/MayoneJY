@@ -34,7 +34,11 @@ I participated in two competitions with my graduation project, winning both the 
 Check out my interview by clicking [here](https://youtu.be/F6Y3wh4U-TE?t=501)~ 🎤<br/>
 Currently, I'm a senior (major-focused) and preparing another amazing graduation project, so please look forward to it! 🌈<br/>
 </details>
- 
+
+### 진행중인 프로젝트
+교육용 게임 서비스 제공 플랫폼 (Spring boot + React)[private]
+현실세계 드론 스캐닝 프로젝트 (Python, C++, Unity)[private]
+
 ### 💪 Skills
 #### Platforms & Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayoneJY&exclude_repo=Metaverse-Driver-s-License-Skill-Test&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
