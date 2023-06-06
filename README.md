@@ -1,6 +1,6 @@
 ### 🤞 Nice way to meet me
 
-<a href="https://velog.io/@mayone6063" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<!-- <a href="https://velog.io/@mayone6063" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
 <a href="mailto:mayone6063@kakao.com" target="_blank"><img src="https://img.shields.io/badge/mayone6063@kakao.com-FFCD00?style=flat-square&logo=Mail.Ru&logoColor=black"/></a>
 <a href="https://www.instagram.com/99_jeongyeon/" target="_blank"><img src="https://img.shields.io/badge/@99_jeongyeon-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  
