@@ -53,6 +53,11 @@
     - <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/3D Printer-1C1E20?style=flat-square"/> <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=oculus&logoColor=white"/>
 - 디스코드 Chat GPT 봇 (2023)
     - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+      <details>
+       <summary>이미지</summary>
+        <img src="https://github.com/MayoneJY/MayoneJY/assets/32291392/571a4ff0-7e75-41b1-b2a0-39cdb0e17a74"/>
+  
+      </details>
 - redytek 외주 (2023)
     - <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=Javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 - EBS MATH 외주 (2023)
