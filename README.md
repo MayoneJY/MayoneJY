@@ -17,12 +17,17 @@
 <details>
     <summary>PROJECTS & SKILLS</summary>
  
-- 수락고 카카오 챗봇 (2017) [서비스 중]
+- 수락고 카카오 챗봇 (2017)
     - <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 - PC방 관리 프로그램 (2018)
     - <img src="https://img.shields.io/badge/Visual Basic-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 - 디스코드 뮤직 자막 봇 (2018 ~) [서비스 중]
     - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> (2021)
+    <details>
+     <summary>이미지</summary>
+     ![image](https://github.com/MayoneJY/MayoneJY/assets/32291392/80d68667-27c0-4e2c-b0a7-546b7dbd00d8)
+
+    </details>
 - 중대 급 병역관리 프로그램 (2019~2020)
     - <img src="https://img.shields.io/badge/Visual Basic-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 - 유튜브 자막 팝업 프로그램
