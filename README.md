@@ -12,7 +12,6 @@
 - 게이미피케이션포럼상
 - 경민대학교총동문회장 표창장
 - 자랑스런 경민인
-
 </details>
 <details>
     <summary>PROJECTS & SKILLS</summary>
@@ -23,15 +22,27 @@
     - <img src="https://img.shields.io/badge/Visual Basic-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 - 디스코드 뮤직 자막 봇 (2018 ~) [서비스 중]
     - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> (2021)
-    <details>
-     <summary>이미지</summary>
-     ![image](https://github.com/MayoneJY/MayoneJY/assets/32291392/80d68667-27c0-4e2c-b0a7-546b7dbd00d8)
-
-    </details>
+      <details>
+       <summary>이미지</summary>
+        <img src="https://github.com/MayoneJY/MayoneJY/assets/32291392/80d68667-27c0-4e2c-b0a7-546b7dbd00d8"/>
+  
+      </details>
 - 중대 급 병역관리 프로그램 (2019~2020)
     - <img src="https://img.shields.io/badge/Visual Basic-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 - 유튜브 자막 팝업 프로그램
-    - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> (2022), <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logoColor=white"/> (2021)
+    - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> (2022)
+      <details>
+       <summary>이미지</summary>
+        <img src="https://github.com/MayoneJY/MayoneJY/assets/32291392/5a66e9c4-952a-468b-a572-58f012245b60"/>
+  
+      </details>
+    - <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logoColor=white"/> (2021)
+      <details>
+       <summary>이미지</summary>
+        <img src="https://github.com/MayoneJY/MayoneJY/assets/32291392/d58fc9d6-3c55-4956-a7c8-e738f38a965f">
+        <img src="https://github.com/MayoneJY/MayoneJY/assets/32291392/abd6a1c8-cc0b-4702-a543-a47bdddda47d">
+  
+      </details>
 - 도서 관리 프로그램 (2021)
     - <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 - 모바일 게임 프로젝트 (2021)
