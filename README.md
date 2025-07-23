@@ -17,4 +17,4 @@
 - 🏆 **게이미피케이션포럼상** – VR 메타버스 운전면허 시험 (2022)
 - 🎓 **전문기술인재장학금(2023)**
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayone6063)](https://solved.ac/mayone6063/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=mayone6063&theme=cold)
