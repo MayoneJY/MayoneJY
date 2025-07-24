@@ -20,3 +20,8 @@
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mayone6063"> <img src="http://mazandi.herokuapp.com/api?handle=mayone6063&theme=cold">
 </p>
+
+<!--아직 미완성된 기능입니다. 사용하지 말아주세요 ㅜㅜ -->
+<p align="center">
+<img src="http://mayonedev.com:8000/api/boj/mayone6063/">
+</p>
