@@ -23,5 +23,5 @@
 
 <!--아직 미완성된 기능입니다. 사용하지 말아주세요 ㅜㅜ -->
 <p align="center">
-<img src="http://mayonedev.com:8000/api/boj/mayone6063/">
+<img src="http://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=default">
 </p>
