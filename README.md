@@ -4,7 +4,7 @@
 <a href="mailto:mayone6063@kakao.com" target="_blank"><img src="https://img.shields.io/badge/mayone6063@kakao.com-FFCD00?style=for-the-badge&logo=Mail.Ru&logoColor=black"/></a>
 <a href="https://www.instagram.com/99_jeongyeon/" target="_blank"><img src="https://img.shields.io/badge/@99_jeongyeon-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  
-안녕하세요! 😊 저는 경력처럼 보이고 싶은 신입 개발자(희망)입니다! 🌟<br/>
+안녕하세요! 😊 저는 경력처럼 보이고 싶은 신입 개발자입니다! 🌟<br/>
 ## 🛠️ Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
 <br/>
