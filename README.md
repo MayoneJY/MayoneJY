@@ -17,11 +17,18 @@
 - 🏆 **게이미피케이션포럼상** – VR 메타버스 운전면허 시험 (2022)
 - 🎓 **전문기술인재장학금(2023)**
 
+## ✏️ Open Source Contributions
+- [staciax/valorant-discord-bot](https://github.com/staciax/valorant-discord-bot/)
+  - fix: Adjust grammar to fit {duration} output. \[ko.json\]
+- [eungyeole/naver-realtime-keywords](https://github.com/eungyeole/naver-realtime-keywords)
+  - fix: 다크 모드에서 화이트로 나오던 문제 수정
+- [lazygyu/roulette](https://github.com/lazygyu/roulette)
+  - feat: 룰렛을 시작하기 전과 후, 카메라를 고정하는 기능 추가
+
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mayone6063"> <img src="http://mazandi.herokuapp.com/api?handle=mayone6063&theme=cold">
 </p>
 
-<!--아직 미완성된 기능입니다. 사용하지 말아주세요 ㅜㅜ -->
 <p align="center">
 <img src="http://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=default">
 </p>
