@@ -16,7 +16,7 @@
 - 🥇 **교육부 장관상(대상)** – VR 메타버스 운전면허 시험 (2022)
 - 🏆 **게이미피케이션포럼상** – VR 메타버스 운전면허 시험 (2022)
 - 🎓 **전문기술인재장학금(2023)**
-- 🥇 **삼성 청년 SW AI 아카데미 14기 1학기 프로젝트 최우수상** - AI 면접, 역량 훈련 게이미피케이션 플랫폼
+- 🥇 **삼성 청년 SW AI 아카데미 14기 1학기 프로젝트 최우수상** - AI 면접, 역량 훈련 게이미피케이션 플랫폼 (2025)
 
 ## ✏️ Open Source Contributions
 - [staciax/valorant-discord-bot](https://github.com/staciax/valorant-discord-bot/)
