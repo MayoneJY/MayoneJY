@@ -6,7 +6,7 @@
  
 안녕하세요! 😊 저는 경력처럼 보이고 싶은 신입 개발자입니다! 🌟<br/>
 ## 🛠️ Skills
-<img src="https://img.shilds.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 
@@ -30,9 +30,9 @@
 
   - fix(stage-layouts): keep page header visible in settings pages
 
-<p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mayone6063"> <img src="http://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=default"><!-- <img src="http://mazandi.herokuapp.com/api?handle=mayone6063&theme=cold"> -->
-</p>
+<!-- <p align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mayone6063"> <img src="http://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=default">
+</p> -->
 
 <p align="center">
 </p>
