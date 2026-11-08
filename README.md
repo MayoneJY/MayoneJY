@@ -18,17 +18,24 @@
 - 🎓 **전문기술인재장학금(2023)**
 - 🥇 **삼성 청년 SW AI 아카데미 14기 1학기 프로젝트 최우수상** - AI 면접, 역량 훈련 게이미피케이션 플랫폼 (2025)
 
+
 ## ✏️ Open Source Contributions
+
 - [staciax/valorant-discord-bot](https://github.com/staciax/valorant-discord-bot/) ![GitHub Repo stars](https://img.shields.io/github/stars/staciax/valorant-discord-bot?style=flat)
-  - fix: Adjust grammar to fit {duration} output. \[ko.json\]
+  - 시간 표시(`{duration}`)에 맞게 한국어 문구가 자연스럽게 출력되도록 수정했습니다. ([PR #115](https://github.com/staciax/valorant-discord-bot/pull/115))
+
 - [eungyeole/naver-realtime-keywords](https://github.com/eungyeole/naver-realtime-keywords) ![GitHub Repo stars](https://img.shields.io/github/stars/eungyeole/naver-realtime-keywords?style=flat)
-  - fix: 다크 모드에서 화이트로 나오던 문제 수정
+  - 다크 모드에서 일부 UI가 흰색으로 표시되는 문제를 수정했습니다. ([PR #2](https://github.com/eungyeole/naver-realtime-keywords/pull/2))
+
 - [lazygyu/roulette](https://github.com/lazygyu/roulette) ![GitHub Repo stars](https://img.shields.io/github/stars/lazygyu/roulette?style=flat)
-  - feat: 룰렛을 시작하기 전과 후, 카메라를 고정하는 기능 추가
+  - 룰렛 시작 전후에 카메라 시점을 고정할 수 있는 기능을 추가했습니다. ([PR #38](https://github.com/lazygyu/roulette/pull/38))
+
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) ![GitHub Repo stars](https://img.shields.io/github/stars/moeru-ai/airi?style=flat)
+  - 설정 페이지에서 상단 헤더가 사라지는 레이아웃 문제를 수정했습니다. ([PR #1085](https://github.com/moeru-ai/airi/pull/1085))
 
+- [SpicesFire/SayIt](https://github.com/SpicesFire/SayIt) ![GitHub Repo stars](https://img.shields.io/github/stars/SpicesFire/SayIt?style=flat)
+  - 학습 문장, UI, 오류 안내 등 한국어 번역 64개 항목을 개선하고 용어와 수량 표현을 통일했습니다. ([PR #7](https://github.com/SpicesFire/SayIt/pull/7))
 
-  - fix(stage-layouts): keep page header visible in settings pages
 
 <!-- <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mayone6063"> <img src="http://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=10&base_color=default">
